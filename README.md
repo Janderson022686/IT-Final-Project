@@ -5,3 +5,5 @@ This webpage is for a final project in an IT course. Below are some links to oth
 [About Myself](https://github.com/Janderson022686/IT-Final-Project/blob/About-Myself/README.md#about-myself)
 
 [Hobbies](https://github.com/Janderson022686/IT-Final-Project/tree/Hobbies#hobbies)
+
+[Soldering Projects](https://github.com/Janderson022686/IT-Final-Project/tree/Soldering-Projects#soldering-projects)
