@@ -8,4 +8,4 @@ This webpage is for a final project in an IT course. Below are some links to oth
 
 [Soldering Projects](https://github.com/Janderson022686/IT-Final-Project/tree/Soldering-Projects#soldering-projects)
 
-[Programmin](https://github.com/Janderson022686/IT-Final-Project/blob/Programming/README.md#programming)
+[Programming](https://github.com/Janderson022686/IT-Final-Project/blob/Programming/README.md#programming)
