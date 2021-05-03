@@ -1,5 +1,5 @@
 # Programming 
-This page is more of a "what I learned this year" kind of thing. Before taking this course, I had zero experince with coding and programming. The most I'd done before this year was edit an old game file that was breaking for one reason or another, and that was with a guide. But now I have very basic expirence with a few different languages, like Javascript and Python, as well as increased knowledge about how things like algorithims work. Below is an example of a simple block of code I had to write for an object position calculator, which was one of the projects I got to work on this semester. 
+This page is more of a "what I learned this year" kind of thing. Before taking this course, I had zero experince with coding and programming. The most I'd done before this year was edit an old game file that was breaking for one reason or another, and that was with a guide. But now I have basic experince with a few different languages, like Javascript and Python, as well as increased knowledge about how things like algorithms work. Below is an example of a simple block of code I had to write for an object position calculator, which was one of the projects I got to work on this semester. 
 
 ```
 print("Object Position Calculator")
