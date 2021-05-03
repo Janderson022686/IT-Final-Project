@@ -16,4 +16,7 @@ XF = X0 + V0 * T + 0.5 * A * T ** 2
 print("The object's final posiition(XF) is: ", XF)
 ```
 
+...**Bold Text**...
+
+
 [Home](https://github.com/Janderson022686/IT-Final-Project#hello)
